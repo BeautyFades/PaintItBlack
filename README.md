@@ -21,6 +21,10 @@ This covers the install procedures of the mashup as-is, i.e. while using the two
 # 📷 Preview
 ![Dashboard preview](https://i.imgur.com/IGNRD3K.png)
 
+## Presentation Video
+[![Video](https://img.youtube.com/vi/uT0DeLvBYEE/0.jpg)](https://www.youtube.com/watch?v=uT0DeLvBYEE)
+
+
 # 🗨️ Contact Info
 
 Find us through the project's developer on [GitHub](https://github.com/BeautyFades) or on [LinkedIn](https://www.linkedin.com/in/fellipe-fernandes/). For business inquiries please contact BIX Tecnologia on [our website](https://www.bixtecnologia.com/us/).
